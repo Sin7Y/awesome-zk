@@ -95,8 +95,6 @@ Table of Contents
 ### Zk-VM
 
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
-- [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
-- [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY) and their [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [zCloak Space](https://zcloak.network/#/)
 - [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/)
@@ -107,6 +105,12 @@ Table of Contents
 - [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 - [Tritron VM](https://github.com/TritonVM/triton-vm)
+- [Starkware Cairo](https://www.cairo-lang.org/docs/index.html)
+- [Polygon Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
+- [Polygon Miden](https://github.com/maticnetwork/miden)
+- [Polygon Zero](https://polygon.technology/solutions/polygon-zero/) and their [GitHub](https://github.com/mir-protocol)
+- [RISC0](https://github.com/risc0/risc0)
+
 
 ### Zk-Layer1
 
