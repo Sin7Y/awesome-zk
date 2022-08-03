@@ -110,6 +110,7 @@ Table of Contents
 - [Polygon Miden](https://github.com/maticnetwork/miden)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/) and their [GitHub](https://github.com/mir-protocol)
 - [RISC0](https://github.com/risc0/risc0)
+- [TinyRAM-halo2](https://github.com/Orbis-Tertius/tiny-ram-halo2)
 
 
 ### Zk-Layer1
